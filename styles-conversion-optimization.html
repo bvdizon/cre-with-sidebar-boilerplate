@@ -1,0 +1,17 @@
+<!-- Style inserts for SEO and conversion optimization  -->
+<script>
+    var css = '.container{width:1400px!important}.advanced-section-anchors,.snippet-tab-image{display:none}.primary-color{color:#b11107!important}';
+    var head = document.querySelector("head");
+    var style = document.createElement('style');
+
+    head.appendChild(style);
+
+    style.type = 'text/css';
+
+    if (style.styleSheet) {
+        // This is required for IE8 and below.
+        style.styleSheet.cssText = css;
+    } else {
+        style.appendChild(document.createTextNode(css));
+    }
+</script>

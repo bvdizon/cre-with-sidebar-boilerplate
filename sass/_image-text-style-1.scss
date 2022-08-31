@@ -1,0 +1,20 @@
+.image-text-style-1 {
+	@media screen and (min-width: 768px) {
+		display: flex;
+		align-items: center;
+		div:nth-child(1) {
+			width: 50%;
+			min-height: 35rem;
+		}
+
+		div:nth-child(2) {
+			width: 55%;
+			margin-left: -8%;
+			z-index: 10;
+			background-color: #fff;
+			box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+			border-radius: 3px;
+			padding: 3rem;
+		}
+	}
+}
