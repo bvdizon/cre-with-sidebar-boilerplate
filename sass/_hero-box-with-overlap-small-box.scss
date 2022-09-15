@@ -1,0 +1,70 @@
+.about-hero-section {
+	&--1 {
+		color: var(--color-gray-200);
+		background: rgb(2, 0, 36);
+		background: linear-gradient(to bottom, rgba(2, 0, 36, 0.9) 0%, rgba(2, 0, 36, 0.713203323321516) 100%),
+			url('https://www.calgary-real-estate.com/uploads/Tuscany-86.jpg');
+		background-size: cover;
+		background-position: center bottom;
+		background-repeat: no-repeat;
+		padding-top: 2rem;
+
+		@media screen and (min-width: 768px) {
+			& > div {
+				width: 45%;
+			}
+		}
+
+		h2 {
+			text-transform: uppercase;
+			margin-bottom: 1rem;
+			line-height: 1;
+			font-weight: 700;
+		}
+
+		.text-with-line {
+			display: block;
+			position: relative;
+			font-size: 1rem;
+			font-weight: 300;
+			text-transform: uppercase;
+			letter-spacing: 1px;
+			text-align: right;
+
+			&::before {
+				content: "";
+				display: inline-block;
+				position: absolute;
+				top: 50%;
+				left: 0;
+				height: 1px;
+				width: calc(100% - 117px);
+				background-color: var(--color-gray-100);
+			}
+		}
+	}
+	&--2 {
+		@media screen and (min-width: 768px) {
+			background-color: var(--color-gray-100);
+			width: 45%;
+			margin-left: 50%;
+			margin-top: -11rem;
+			padding: 2.5rem;
+			border: 5px solid #fff;
+		}
+
+		ul {
+			margin: 0 !important;
+
+			a {
+				font-size: clamp(1rem, 0.9091rem + 0.4545vw, 1.25rem);
+				text-decoration: none;
+
+				&:hover {
+					color: var(--color-primary-500);
+					font-weight: 500;
+				}
+			}
+		}
+	}
+}

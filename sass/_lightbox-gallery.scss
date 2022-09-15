@@ -1,0 +1,19 @@
+.lightbox-gallery {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: .3rem;
+
+	a {
+		display: inline-block;
+		box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+		border-radius: 3px;
+	}
+
+	img {
+		display: block;
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		border-radius: 3px;
+	}
+}

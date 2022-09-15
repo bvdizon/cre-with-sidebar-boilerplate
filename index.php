@@ -1,5 +1,19 @@
 <?php include 'template-parts/header.php'; ?>
 <!-- Entry Content  -->
-<?php include 'content/eight-reasons.php'; ?>
+<?php include 'components-cmty.php/nw/tuscany/tuscany.php'; ?>
+
+<!-- PLUGIN: DEV -->
+<script src="js/lazysizes.min.js" async></script>
+
+<!-- PLUGIN: Glightbox -->
+<script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
+<script type="text/javascript">
+const lightbox = GLightbox({
+    touchNavigation: true,
+    loop: true,
+    autoplayVideos: true
+});
+</script>
+
 <!-- @end  Entry Content  -->
 <?php include 'template-parts/footer-with-sidebar.php'; ?>
