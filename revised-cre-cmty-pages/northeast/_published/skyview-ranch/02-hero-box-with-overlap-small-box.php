@@ -1,14 +1,12 @@
 <div class="about-hero-section section-spacer" id="more">
-    <!-- Update the background image to that of CMTY photo -->
-    <div class="about-hero-section--1 p-6" style="background: rgb(2, 0, 36); background: linear-gradient(to bottom, rgba(2, 0, 36, 0.9) 0%, rgba(2, 0, 36, 0.713203323321516) 100%), url('https://www.calgary-real-estate.com/uploads/agent-1/community/nw-calgary/scenic-acres/amenities/scenic-acres-wm-30.webp'); background-position: center center;">
+    <div class="about-hero-section--1 p-6" style="background: rgb(2, 0, 36); background: linear-gradient(to bottom, rgba(2, 0, 36, 0.9) 0%, rgba(2, 0, 36, 0.713203323321516) 100%), url('https://www.calgary-real-estate.com/uploads/agent-1/community/ne-calgary/skyview-ranch/amenities/skyview-ranch-14.webp'); background-position: center bottom;">
         <div>
-            <h2>CMTY <span class="text-with-line">Real Estate</span></h2>
-            <!-- Update the intro text below. -->
-            <p>Insert phrase for CMTY here. </p>
+            <h2>Skyview Ranch <span class="text-with-line">Real Estate</span></h2>
+            <p>A breathtaking neighborhood with idyllic landscapes, immaculate greens and panoramic views of the surrounding Rockies. </p>
         </div>
     </div>
     <div class="about-hero-section--2 p-6">
-        <h3>Explore CMTY</h3>
+        <h3>Explore Skyview Ranch</h3>
         <ul class="list-with-icons">
             <li>
                 <img src="https://www.calgary-real-estate.com/uploads/agent-1/icons/checked.png" alt="checkmark icon" width="32" height="32">
@@ -24,7 +22,7 @@
             </li>
             <li>
                 <img src="https://www.calgary-real-estate.com/uploads/agent-1/icons/checked.png" alt="checkmark icon" width="32" height="32">
-                <a href="#schools" class="p-2  d-inline-block">Schools In or Near CMTY</a>
+                <a href="#schools" class="p-2  d-inline-block">Schools In or Near Skyview Ranch</a>
             </li>
         </ul>
     </div>

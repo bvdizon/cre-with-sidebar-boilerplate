@@ -1,6 +1,6 @@
 <div id="agent-guided-video-tour" class="section-spacer">
-    <h2 class="sect-title">What's it Like Living in Saddle Ridge</h2>
-    <p class="par-lg">What's it Like Living in Saddle Ridge — An Agents Guided Saddle Ridge Community Video. Learn a bit about the people, the places, the shops and the life that makes living in Saddle Ridge special.
+    <h2 class="sect-title">What's it Like Living in Vista Heights</h2>
+    <p class="par-lg">What's it Like Living in Vista Heights — An Agents Guided Vista Heights Community Video. Learn a bit about the people, the places, the shops and the life that makes living in Vista Heights special.
     </p>
     <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; margin-bottom: 30px;">
         <!-- get the ID of the video in YoutUbe and update replaceThisVideoID -->
