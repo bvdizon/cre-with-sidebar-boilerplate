@@ -1,6 +1,6 @@
 <?php include 'template-parts/header.php'; ?>
 <!-- Entry Content  -->
-<?php include 'revised-cre-cmty-pages/northeast/whitehorn/cmty.php'; ?>
+<?php include 'revised-cre-cmty-pages/northwest/ranchlands/cmty.php'; ?>
 
 <!-- PLUGIN: DEV -->
 <script src="js/lazysizes.min.js" async></script>
