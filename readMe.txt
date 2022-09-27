@@ -18,3 +18,11 @@ http://localhost/cre-with-sidebar/
 edit index.php to update the cmty you are viewing
 
 work on this folder: revised-cre-cmty-pages
+
+
+
+
+Missing Write Ups
+--------------------------//
+Currie Barracks
+Garrison Green
