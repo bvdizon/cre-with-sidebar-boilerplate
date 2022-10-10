@@ -1,0 +1,58 @@
+<div>
+    <div style="text-align: center; margin-bottom: 100px;"><a style="font-size: 18px; line-height: 1; text-decoration: none; display: flex; justify-content: center; align-items: center;" href="#listings"><strong style="margin-right: 5px;">Jump Back to Listings</strong> <img class=" ls-is-cached lazyloaded" src="/uploads/agent-1/community/upward-arrow.svg" alt="Back to Listings" width="30" height="30" data-src="/uploads/agent-1/community/upward-arrow.svg" /></a></div>
+</div>
+
+<script type="application/ld+json">
+// <![CDATA[
+{
+    "@context": "http://schema.org",
+    "@type": "VideoObject",
+    "name": "Banff Trail Calgary Community Video",
+    "description": "Named after a beautiful town in Scotland called Banffshire, the Banff Trail is a calm and idyllic residential neighborhood in North West Calgary. Located to the north-east of the Trans- Canada Highway and Crowchild Trail intersection, the Banff Trail is located just a stone’s throw away from the University of Calgary and the McMahon Stadium to the west. Watch the video to learn more.",
+    "thumbnailUrl": "https://i.ytimg.com/vi/MJ2hvYoPQZI/default.jpg",
+    "uploadDate": "2020-05-14T19:19:49Z",
+    "duration": "PT1M41S",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Christopher Audette RE/MAX First",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.calgary-real-estate.com/uploads/logo_content_page.35.png",
+            "width": 250,
+            "height": 37
+        }
+    },
+    "contentUrl": "https://www.calgary-real-estate.com/banff-trail.php",
+    "embedUrl": "https://www.youtube.com/embed/MJ2hvYoPQZI"
+}
+// ]]>
+</script>
+<script type="application/ld+json">
+// <![CDATA[
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Calgary Real Estate | Calgary Homes for Sale & Neighbourhood Info",
+            "item": "https://www.calgary-real-estate.com/"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "MLS® | Calgary Central | Inner City Calgary",
+            "item": "https://www.calgary-real-estate.com/central.php"
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Banff Trail Real Estate Listings for Sale in Calgary",
+            "item": "https://www.calgary-real-estate.com/banff-trail.php"
+        }
+    ]
+}
+// ]]>
+</script>
+
+<div>#styles-cmty-v2#</div>

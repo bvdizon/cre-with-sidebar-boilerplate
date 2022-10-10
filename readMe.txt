@@ -25,8 +25,12 @@ work on this folder: revised-cre-cmty-pages
 Missing Write Ups
 --------------------------//
 Currie Barracks
-Garrison Green
+Garrison Green ( west and central )
 Strathcona Park ( it has, but very thin content )
+Bridgeland/Riverside
+Killarney/Glengarry ( Central )
+Scarboro/Sunalta West ( Central ) - also missing schools
 
+Todo's:
 east / Ogden - upload webp pics
 east / Riverbend - upload webp pics
