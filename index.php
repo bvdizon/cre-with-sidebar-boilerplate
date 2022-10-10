@@ -1,6 +1,6 @@
 <?php include 'template-parts/header.php'; ?>
 <!-- Entry Content  -->
-<?php include 'revised-cre-cmty-pages/north/thorncliffe/cmty.php'; ?>
+<?php include 'revised-cre-cmty-pages/east/southview/cmty.php'; ?>
 
 <!-- PLUGIN: DEV -->
 <script src="js/lazysizes.min.js" async></script>

@@ -27,3 +27,6 @@ Missing Write Ups
 Currie Barracks
 Garrison Green
 Strathcona Park ( it has, but very thin content )
+
+east / Ogden - upload webp pics
+east / Riverbend - upload webp pics
