@@ -30,6 +30,7 @@ Strathcona Park ( it has, but very thin content )
 Bridgeland/Riverside
 Killarney/Glengarry ( Central )
 Scarboro/Sunalta West ( Central ) - also missing schools
+Winston Heights ( Central )
 
 Todo's:
 east / Ogden - upload webp pics
