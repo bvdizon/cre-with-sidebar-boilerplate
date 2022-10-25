@@ -1,6 +1,6 @@
 <?php include 'template-parts/header.php'; ?>
 <!-- Entry Content  -->
-<?php include 'revised-cre-cmty-pages/southeast/riverbend/cmty.php'; ?>
+<?php include 'quicklinks/quicklinks.php'; ?>
 
 <!-- PLUGIN: DEV -->
 <script src="js/lazysizes.min.js" async></script>
