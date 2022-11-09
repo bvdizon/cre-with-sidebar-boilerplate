@@ -1,6 +1,6 @@
 <?php include 'template-parts/header.php'; ?>
 <!-- Entry Content  -->
-<?php include 'quicklinks/quicklinks.php'; ?>
+<?php include 'revised-airdrie-cmty-pages/bayside/cmty.php'; ?>
 
 <!-- PLUGIN: DEV -->
 <script src="js/lazysizes.min.js" async></script>
