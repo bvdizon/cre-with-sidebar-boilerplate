@@ -1,14 +1,12 @@
 <div class="about-hero-section section-spacer" id="more">
-    <!-- Update the background image to that of CMTY photo -->
-    <div class="about-hero-section--1 p-6" style="background: rgb(2, 0, 36); background: linear-gradient(to bottom, rgba(2, 0, 36, 0.9) 0%, rgba(2, 0, 36, 0.713203323321516) 100%), url('https://www.calgary-real-estate.com/uploads/agent-1/community/nw-calgary/scenic-acres/amenities/scenic-acres-wm-30.webp'); background-position: center center;">
+    <div class="about-hero-section--1 p-6" style="background: rgb(2, 0, 36); background: linear-gradient(to bottom, rgba(2, 0, 36, 0.9) 0%, rgba(2, 0, 36, 0.713203323321516) 100%), url('https://www.calgary-real-estate.com/uploads/agent-1/airdrie/kings-heights/kings-heights-1.webp'); background-position: center center;">
         <div>
-            <h2>CMTY <span class="text-with-line">Real Estate</span></h2>
-            <!-- Update the intro text below. -->
-            <p>Insert phrase for CMTY here. </p>
+            <h2>King's Heights <span class="text-with-line">Real Estate</span></h2>
+            <p>King's Heights is a large master planned community that has been designed to fulfill your countless whims.</p>
         </div>
     </div>
     <div class="about-hero-section--2 p-6">
-        <h3>Explore CMTY</h3>
+        <h3>Explore King's Heights</h3>
         <ul class="list-with-icons">
             <li>
                 <img src="https://www.calgary-real-estate.com/uploads/agent-1/icons/checked.png" alt="checkmark icon" width="32" height="32">

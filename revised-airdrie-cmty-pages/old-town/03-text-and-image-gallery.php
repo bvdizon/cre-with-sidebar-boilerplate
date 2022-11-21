@@ -1,0 +1,34 @@
+<div id="about-the-community" class="section-spacer">
+    <h2 class="sect-title">About Old Town</h2>
+    <div class="col-grid-2">
+        <div>
+            <p class="par-lg">Those who travel abroad frequently will love the fact that the Calgary International Airport lies just 40 minutes from this neighbourhood.</p>
+            <p class="par-xl">At Olde Towne Okotoks, you have some amazing dining, cultural and shopping experiences at hand too that allow you to get a very distinctive idea of what Albertan lifestyle is all about.</p>
+        </div>
+        <div>
+            <div class="lightbox-gallery">
+                <a href="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-12.webp" class="glightbox hidden" rel="noindex nofollow"> <img class="lazyload" data-src="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-12.webp" alt="Community photo in Old Town, Airdrie"> </a>
+                <a href="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-13.webp" class="glightbox hidden" rel="noindex nofollow"> <img class="lazyload" data-src="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-13.webp" alt="Community photo in Old Town, Airdrie"> </a>
+                <a href="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-14.webp" class="glightbox" rel="noindex nofollow"> <img class="lazyload" data-src="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-14.webp" alt="Community photo in Old Town, Airdrie"> </a>
+                <a href="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-15.webp" class="glightbox" rel="noindex nofollow"> <img class="lazyload" data-src="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-15.webp" alt="Community photo in Old Town, Airdrie"> </a>
+                <a href="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-16.webp" class="glightbox" rel="noindex nofollow"> <img class="lazyload" data-src="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-16.webp" alt="Community photo in Old Town, Airdrie"> </a>
+                <a href="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-17.webp" class="glightbox" rel="noindex nofollow"> <img class="lazyload" data-src="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-17.webp" alt="Community photo in Old Town, Airdrie"> </a>
+                <a href="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-18.webp" class="glightbox" rel="noindex nofollow"> <img class="lazyload" data-src="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-18.webp" alt="Community photo in Old Town, Airdrie"> </a>
+                <a href="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-19.webp" class="glightbox" rel="noindex nofollow"> <img class="lazyload" data-src="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-19.webp" alt="Community photo in Old Town, Airdrie"> </a>
+                <a href="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-2.webp" class="glightbox hidden" rel="noindex nofollow"> <img class="lazyload" data-src="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-2.webp" alt="Community photo in Old Town, Airdrie"> </a>
+                <a href="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-20.webp" class="glightbox hidden" rel="noindex nofollow"> <img class="lazyload" data-src="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-20.webp" alt="Community photo in Old Town, Airdrie"> </a>
+                <a href="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-21.webp" class="glightbox hidden" rel="noindex nofollow"> <img class="lazyload" data-src="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-21.webp" alt="Community photo in Old Town, Airdrie"> </a>
+                <a href="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-22.webp" class="glightbox hidden" rel="noindex nofollow"> <img class="lazyload" data-src="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-22.webp" alt="Community photo in Old Town, Airdrie"> </a>
+                <a href="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-3.webp" class="glightbox hidden" rel="noindex nofollow"> <img class="lazyload" data-src="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-3.webp" alt="Community photo in Old Town, Airdrie"> </a>
+                <a href="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-4.webp" class="glightbox hidden" rel="noindex nofollow"> <img class="lazyload" data-src="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-4.webp" alt="Community photo in Old Town, Airdrie"> </a>
+                <a href="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-5.webp" class="glightbox hidden" rel="noindex nofollow"> <img class="lazyload" data-src="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-5.webp" alt="Community photo in Old Town, Airdrie"> </a>
+                <a href="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-6.webp" class="glightbox hidden" rel="noindex nofollow"> <img class="lazyload" data-src="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-6.webp" alt="Community photo in Old Town, Airdrie"> </a>
+                <a href="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-7.webp" class="glightbox hidden" rel="noindex nofollow"> <img class="lazyload" data-src="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-7.webp" alt="Community photo in Old Town, Airdrie"> </a>
+                <a href="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-8.webp" class="glightbox hidden" rel="noindex nofollow"> <img class="lazyload" data-src="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-8.webp" alt="Community photo in Old Town, Airdrie"> </a>
+            </div>
+            <div style="text-align: center; padding: 2rem 0; color: #b11107; font-weight: 600;">
+                <a href="https://www.calgary-real-estate.com/uploads/agent-1/airdrie/old-town/old-town-1.webp" class="glightbox" rel="noindex nofollow">View Image Gallery</a>
+            </div>
+        </div>
+    </div>
+</div>
